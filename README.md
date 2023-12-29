@@ -1,4 +1,4 @@
-## Guide for TVSI Backand Server
+/## Guide for TVSI Backand Server
 
 I've done for this backend server tasks. Usage:
 
@@ -64,4 +64,21 @@ I've done for this backend server tasks. Usage:
 
 
 ### 6. Screenshots
+
+* Api list
+
+
+* User register
+
+
+* User login
+
+![Uploading Screenshot 2023-12-29 at 10-26-07 TV Show Information.png…]()
+
+* Episode list api
+
+![Uploading Screenshot 2023-12-29 at 10-33-45 TV Show Information.png…]()
+
+
+
 
