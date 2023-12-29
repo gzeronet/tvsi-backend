@@ -1,4 +1,4 @@
-/## Guide for TVSI Backand Server
+L /## Guide for TVSI Backand Server
 
 I've done for this backend server tasks. Usage:
 
@@ -52,7 +52,7 @@ I've done for this backend server tasks. Usage:
 * Unit tests ✓ (just add a simple unit test)
 * Clear README.md to introduce how to run or build the project. ✓
 * Clear code structure and comments in the code. ✓ (django rest framework style)
-* Friendly error handling in case of API failure. ✓ 
+* Friendly error handling in case of API failure. ✓
 * Gracefully handle HTTP 429 responses (from TVMaze): simply retry the request after a small pause instead of treating it as a permanent failure. ✓
 * Writing a Dockerfile and Makefile/Bash script to build a Docker image for this website - it contains a server inside. ✓
 
@@ -67,18 +67,16 @@ I've done for this backend server tasks. Usage:
 
 * Api list
 
+![api-list](screenshots/api-list.png)
 
 * User register
 
+![register](screenshots/register.png)
 
 * User login
 
-![Uploading Screenshot 2023-12-29 at 10-26-07 TV Show Information.png…]()
+![login](screenshots/login.png)
 
 * Episode list api
 
-![Uploading Screenshot 2023-12-29 at 10-33-45 TV Show Information.png…]()
-
-
-
-
+![episode](screenshots/episode.png)
